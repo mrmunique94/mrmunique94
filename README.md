@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Dinesh Kumar Prajapati!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=3670A0&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Dinesh+Kumar+Prajapati!+👋;Data+Scientist+%26+Data+Analyst+🚀;Ex-DRDO+Trainee+|+VIT+Bhopal+M.Tech)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=3670A0&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Dinesh+Kumar+Prajapati!+👋;Data+Scientist+%26+Data+Analyst+🚀;Ex-DRDO+Apprentice+|+VIT+Bhopal+M.Tech)
 
 
 
