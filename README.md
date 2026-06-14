@@ -1,15 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=3670A0&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Dinesh+Kumar+Prajapati!+👋;Data+Scientist+%26+Data+Analyst+🚀;Ex-DRDO+Trainee+|+VIT+Bhopal+M.Tech" alt="Typing SVG" />
-</p>
+# Hi there 👋 I'm Dinesh Kumar Prajapati!
 
-<!-- Background Banner with Name Inside -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=soft&color=auto&height=200&section=header&text=DINESH%20KUMAR%20PRAJAPATI&fontSize=42&fontAlignY=50&animation=twinkling&theme=tokyonight" alt="Dinesh Background Banner" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=3670A0&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Dinesh+Kumar+Prajapati!+👋;Data+Scientist+%26+Data+Analyst+🚀;Ex-DRDO+Trainee+|+VIT+Bhopal+M.Tech)
 
-<!--
-**mrmunique94/mrmunique94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 ### 🚀 About Me
 
@@ -19,7 +12,7 @@ An M.Tech student in Artificial Intelligence & Data Science at VIT Bhopal, trans
 
 ### 🔍 Quick Overview
 
-- **🔭 I’m currently working on:** Building an AI-Based Face Recognition Smart Attendance System using Vision Transformers (ViT) and OpenCV[cite: 1].
+- **🔬 I’m currently working on:** Building an AI-Based Face Recognition Smart Attendance System using Vision Transformers (ViT) and OpenCV[cite: 1].
 - **🌱 I’m currently learning:** Deep diving into Python, NumPy, Pandas, Data Manipulation libraries, and Plotting/Visualization tools (Matplotlib, Seaborn)[cite: 1].
 - **👯 I’m looking to collaborate on:** Simple and interesting Data Science projects or open-source Python programs.
 - **🤔 I’m looking for help with:** Learning how to deploy Machine Learning models and improve my advanced SQL skills.
@@ -30,35 +23,25 @@ An M.Tech student in Artificial Intelligence & Data Science at VIT Bhopal, trans
 ---
 
 ### 📊 My GitHub Analytics & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrmunique94&show_icons=true&theme=tokyonight&count_private=true" alt="Dinesh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmunique94&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmunique94&theme=tokyonight" alt="GitHub Streak" width="97%" />
-</p>
+![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrmunique94&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmunique94&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrmunique94&theme=tokyonight)
 
 ---
 
 ### 🛠️ Technical Skills & Toolbelt
 
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  
-  <!-- Data Science Libraries -->
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="SciKit Learn" />
-  
-  <!-- Tools & Hardware -->
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![SciKit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -94,11 +77,6 @@ An M.Tech student in Artificial Intelligence & Data Science at VIT Bhopal, trans
 ---
 
 ### 🤝 Let's Connect!
-<p align="left">
-  <a href="https://linkedin.com/in/dinesh-prajapati-b331b8218" target="_blank">
-    <img src="https://img.shields.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:dineshprajapati9424@gmail.com">
-    <img src="https://img.shields.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh-prajapati-b331b8218)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshprajapati9424@gmail.com)
